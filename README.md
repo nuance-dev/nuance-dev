@@ -1,5 +1,3 @@
-A-Z
-
 Hi! I’m in the process of building 26 native macOS apps, one for each letter of the alphabet.
 
 - [**A -Achico**](https://github.com/nuance-dev/achico): Smart file compression 🗜️  
