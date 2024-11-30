@@ -8,5 +8,4 @@ Hi! I’m in the process of building 26 native macOS apps, one for each letter o
 - [**Q - Quiebro**](https://github.com/nuance-dev/quiebro): File splitter 🔓  
 - [**V - Vocal**](https://github.com/nuance-dev/vocal): Transcribe videos 🎙️
 
-💡 Want a workflow improved?: [Request an app](https://github.com/nuance-dev/nuance/discussions/categories/ideas)
-🌐 Website: [Nuanc.me](https://nuanc.me)
+💡 Want a workflow improved?: [Request an app](https://github.com/nuance-dev/nuance/discussions/categories/ideas)  | 🌐 Website: [Nuanc.me](https://nuanc.me)
