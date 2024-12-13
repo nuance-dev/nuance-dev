@@ -7,7 +7,8 @@ Hi! I’m in the process of building 26 native macOS apps, one for each letter o
 - [**F - Figura**](https://github.com/nuance-dev/figura): One-click background remover ✂️
 - [**G - Guía**](https://github.com/nuance-dev/guia): Decision helper 🤔
 - [**I - Impulso**](https://github.com/nuance-dev/impulso): Task manager ✅  
-- [**M - Medio**](https://github.com/nuance-dev/medio): Diff checker 🔍  
+- [**M - Medio**](https://github.com/nuance-dev/medio): Diff checker 🔍
+- **O - Oculto**: Hide watermarks and messages in images imperceptibly 🫥
 - [**Q - Quiebro**](https://github.com/nuance-dev/quiebro): File splitter 🔓
 - **R - Ruido**: Audio channel mixer manager (WIP) 🎙️
 - **T - Trama**: Cool captions for videos and quick editing/trimming (WIP) 🎬
