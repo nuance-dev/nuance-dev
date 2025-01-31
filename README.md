@@ -11,6 +11,7 @@ Hi! I’m in the process of building 26 native macOS apps, one for each letter o
 - **O - Oculto**: Hide watermarks and messages in images imperceptibly 🫥
 - [**Q - Quiebro**](https://github.com/nuance-dev/quiebro): File splitter 🔓
 - **R - Ruido**: Audio channel mixer manager (WIP) 🎙️
+- **S - Superviso**: Be your own news source by tracking website changes (WIP) 📑
 - **T - Trama**: Cool captions for videos and quick editing/trimming (WIP) 🎬
 - [**U - Uno**](https://github.com/nuance-dev/uno): File merge into PDF or prompt 🌀 
 - [**V - Vocal**](https://github.com/nuance-dev/vocal): Transcribe videos 🎙️
