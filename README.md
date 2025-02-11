@@ -3,10 +3,11 @@ Hi! I’m in the process of building 26 native macOS apps, one for each letter o
 - [**A - Achico**](https://github.com/nuance-dev/achico): Smart file compression 🗜️
 - **B - Breve**: TBD.
 - [**C - Convierto**](https://github.com/nuance-dev/convierto): Native file converter 🧪
+- - **D - Deletreo**: Long document speech-to-text local AI (WIP) 📢
 - **E - Espero**: Release date tracker (WIP) 📆
 - [**F - Figura**](https://github.com/nuance-dev/figura): One-click background remover ✂️
 - [**G - Guía**](https://github.com/nuance-dev/guia): Decision helper 🤔
-- [**I - Impulso**](https://github.com/nuance-dev/impulso): Task manager ✅  
+- [**I - Impulso**](https://github.com/nuance-devimpulso): Task manager ✅  
 - [**M - Medio**](https://github.com/nuance-dev/medio): Diff checker 🔍
 - **O - Oculto**: Hide watermarks and messages in images imperceptibly 🫥
 - [**Q - Quiebro**](https://github.com/nuance-dev/quiebro): File splitter 🔓
