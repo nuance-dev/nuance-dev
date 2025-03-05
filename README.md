@@ -9,6 +9,7 @@ Hi! I’m in the process of building 26 native macOS apps, one for each letter o
 - [**G - Guía**](https://github.com/nuance-dev/guia): Decision helper 🤔
 - [**I - Impulso**](https://github.com/nuance-devimpulso): Task manager ✅
 - **J - Jam**: Sync playlists to Youtube Music (WIP) 📆
+- [**K - Klic**](https://github.com/nuance-dev/klic): macOS inputs overlay 🎮
 - [**M - Medio**](https://github.com/nuance-dev/medio): Diff checker 🔍
 - **O - Oculto**: Hide watermarks and messages in images imperceptibly 🫥
 - [**Q - Quiebro**](https://github.com/nuance-dev/quiebro): File splitter 🔓
