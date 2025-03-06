@@ -2,7 +2,7 @@
 
 ![35163](https://github.com/user-attachments/assets/8626d56a-4b45-48bf-8545-1f283ebd69c7)
 
-### Progress Tracker
+### Alphabet Status
 - ✅ [**A - Achico**](https://github.com/nuance-dev/achico): Smart file compression 🗜️
 - ⚙️ **B - Breve**: (WIP) Local document summarizer
 - ✅ [**C - Convierto**](https://github.com/nuance-dev/convierto): Native file converter 🧪
