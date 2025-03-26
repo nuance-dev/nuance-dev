@@ -1,4 +1,4 @@
-## Hi! I’m building 26 native macOS apps, one for each letter of the alphabet.
+## 👋 I’m building 26 native macOS apps, one for each letter of the alphabet.
 
 ![35163](https://github.com/user-attachments/assets/8626d56a-4b45-48bf-8545-1f283ebd69c7)
 
