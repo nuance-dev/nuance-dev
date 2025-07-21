@@ -25,7 +25,7 @@
 - ⚙️ **T - Trama**: (WIP) Cool captions for videos and quick editing/trimming 🎬
 - ✅ [**U - Uno**](https://github.com/nuance-dev/uno): File merge into PDF or prompt 🌀
 - ✅ [**V - Vocal**](https://github.com/nuance-dev/vocal): Transcribe videos 🎙️
-- 🔲 **W**: TBD 𝒲
+- 🔲 **Web (WIP)**: Open-source local AI browser to rival Dia and Comet 💫.
 - 🔲 **X**: TBD 𝒳
 - 🔲 **Y**: TBD 𝑌
 - 🔲 **Z**: TBD 𝑍
