@@ -29,6 +29,7 @@
 - 🔲 X
 - 🔲 Y
 - 🔲 Z
+  
 💡 **Want a workflow improved?** [Request an app](https://github.com/nuance-dev/nuance/discussions/categories/ideas)  |  🌐 **Website:** [Nuanc.me](https://nuanc.me)
 
 🤖 **Also building:** [Rival](https://rival.tips)
