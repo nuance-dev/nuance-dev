@@ -4,7 +4,7 @@
 
 ### Alphabet Status
 - ✅ A - [**Achico**](https://github.com/nuance-dev/achico): Compression
-- ⚙️ B - **Breve**:
+- ⚙️ B - **Breve**
 - ✅ C - [**Convierto**](https://github.com/nuance-dev/convierto): Conversion
 - ❌ D - **Deletreo**
 - 🟡 E - **Espero**: Tracker
