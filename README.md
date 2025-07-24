@@ -25,7 +25,7 @@
 - ⚙️ T - **Trama**: Video editor
 - ✅ U - [**Uno**](https://github.com/nuance-dev/uno): File Merger
 - ✅ V - [**Vocal**](https://github.com/nuance-dev/vocal): Transcriptions
-- 🔲 W - **Web (WIP)**: Local AI browser.
+- ✅ W - [**Web**](https://github.com/nuance-dev/web): Local AI browser.
 - 🔲 X
 - 🔲 Y
 - 🔲 Z
