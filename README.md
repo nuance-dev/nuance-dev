@@ -1,6 +1,4 @@
-## 👋 I'm building 26 native macOS apps, one for each letter.
-
-![35163](https://github.com/user-attachments/assets/8626d56a-4b45-48bf-8545-1f283ebd69c7)
+## 👋 Building 26 native macOS apps, one for each letter.
 
 ### Alphabet Status
 - ✅ A - [**Achico**](https://github.com/nuance-dev/achico): Compression
