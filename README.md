@@ -18,7 +18,7 @@
 - ✅ M - [**Medio**](https://github.com/nuance-dev/medio): Diff checker
 - 🔲 N
 - ✅ O - **Oculto**: Watermarks
-- 🔲 P
+- ✅ P - [**Pinto**](https://github.com/nuance-dev/pinto): Custom terminals
 - ✅ Q - [**Quiebro**](https://github.com/nuance-dev/quiebro): File splitter
 - ⚙️ R - **Ruido**
 - ⚙️ S - **Superviso**: Website changes
