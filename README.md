@@ -1,17 +1,27 @@
 ## nuance
 
-I build small native macOS apps.
+Native macOS tools with quiet interfaces.
 
-Fast, focused utilities for people who live on their Mac.  
-No accounts. No dashboards. No bloat.
+I build small utilities that do one job well. Local-first, fast, and free.
 
-### Selected work
+### MacOS utilities
 
-- [**Web**](https://github.com/nuance-dev/Web) — a local AI browser for macOS.
-- [**Medio**](https://github.com/nuance-dev/medio) — a minimal realtime diff checker.
-- [**Pinto**](https://github.com/nuance-dev/Pinto) — a terminal wrapper for macOS.
-- [**Klic**](https://github.com/nuance-dev/klic) — an input overlay for demos, tutorials, and recordings.
+- [**Web**](https://github.com/nuance-dev/Web)  
+  Local AI browser for macOS.
 
-### Also
+- [**Medio**](https://github.com/nuance-dev/medio)  
+  Minimal realtime diff checker.
 
-- [**Rival**](https://rival.tips) — compare AI models, pricing, and capabilities.
+- [**Pinto**](https://github.com/nuance-dev/Pinto)  
+  Terminal wrapper for macOS.
+
+- [**Klic**](https://github.com/nuance-dev/klic)  
+  Input overlay for recordings and demos.
+
+### AI tooling
+
+- [**Rival Lens**](https://chromewebstore.google.com/detail/rival-lens/aienebdokeipjpldhnfaknpnpcmmgfml)  
+  Chrome extension for seeing AI model specs, prices, and comparisons while browsing.
+
+- [**Rival**](https://rival.tips)  
+  AI model comparisons, prices, and capability data.
