@@ -17,11 +17,3 @@ I build small utilities that do one job well. Local-first, fast, and free.
 
 - [**Klic**](https://github.com/nuance-dev/klic)  
   Input overlay for recordings and demos.
-
-### AI tooling
-
-- [**Rival Lens**](https://chromewebstore.google.com/detail/rival-lens/aienebdokeipjpldhnfaknpnpcmmgfml)  
-  Chrome extension for seeing AI model specs, prices, and comparisons while browsing.
-
-- [**Rival**](https://rival.tips)  
-  AI model comparisons, prices, and capability data.
